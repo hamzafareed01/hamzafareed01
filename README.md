@@ -24,11 +24,11 @@ Here, you’ll find my journey as I grow in the field of software engineering an
 
 ## 🛠️ Skills and Tools
 
-- **Languages**: C, C++, Python, JavaScript, HTML, CSS
-- **Frameworks & Tools**: React, Node.js, Power BI, PowerApps, Git, VS Code, Jupyter, PyCharm
-- **Cloud Technologies**: AWS, Microsoft Azure
-- **Databases**: MySQL, MongoDB
-- **Business Analysis**: Process Modeling, Requirements Gathering, Data Analysis
+- **Languages**: C, C++, Python, JavaScript, HTML, CSS, Linux
+- **Frameworks & Tools**: React, Node.js, Power BI, PowerApps, Git, VS Code, UNIX
+- **Cloud Technologies**: Microsoft Azure, Micosoft Fabric
+- **Databases**: MySQL
+- **Business Analysis**: Process Modeling, Requirements Gathering, Data Analysis, RDM, CDS
 
 ---
 
