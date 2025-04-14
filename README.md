@@ -38,16 +38,15 @@ Here are some of my standout projects:
 
 1. **[Scrolling-Game-Python](https://replit.com/@HamzaFareed/Scrolling-Game-GitHub#main.py)**  
    A collision game where a player avoids falling objects, collects points, and progresses to the next level. As the level increases, both the speed of the objects and player increases. Includes blocks, conditional statements, and loops.  
-   ![Game Screenshot](https://user-images.githubusercontent.com/86845085/224146753-95fe5050-e1c1-479d-ab7f-b60f310923ba.jpg)
+   
 
 2. **[KnightGame-cpp](https://replit.com/@HamzaFareed/Knight-Game-C#main.cpp)**  
    A chess-based game where the objective is to move the white knight to the empty square in the upper right-hand corner. The knight follows traditional chess movement rules, moving in an L-shape.  
-   ![Knight Game Screenshot](https://user-images.githubusercontent.com/86845085/224146928-af1cb411-2a8e-4e3d-9d51-59c1cb6eb63a.jpg)
+  
 
 3. **[Image Manipulation Python](https://replit.com/@HamzaFareed/ImageManipulation-PyhtonProject#main.py)**  
    This Python script manipulates an image in various ways and creates a collage of the altered versions.  
-   **Original Image**: ![Naruto](https://user-images.githubusercontent.com/86845085/224146753-95fe5050-e1c1-479d-ab7f-b60f310923ba.jpg)  
-   **Final Collage**: ![Collage](https://user-images.githubusercontent.com/86845085/224146928-af1cb411-2a8e-4e3d-9d51-59c1cb6eb63a.jpg)
+
 
 ---
 
