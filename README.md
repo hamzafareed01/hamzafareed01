@@ -1,6 +1,6 @@
 # Hello, I'm Hamza! 👋 (Senior-Year Software Engineering Student)
 
-Welcome to my GitHub! I'm a senior-year Software Engineering student passionate about building robust software solutions and exploring new technologies. I have a diverse skill set, including cloud technologies, business analysis, and web development, which I integrate to create scalable and impactful projects. 
+Welcome to my GitHub! I'm a senior-year Software Engineering student passionate about building robust software solutions and exploring new technologies. I have a diverse skill set, including cloud technologies, business analysis, and web development, which I integrate to create scalable and impactful projects. As a Microsoft Learn Student Ambassador, I thrive on learning new technologies and building impactful projects. Here, you'll find my journey, projects, and contributions to the tech community.
 
 Here, you’ll find my journey as I grow in the field of software engineering and explore exciting technologies. 
 
