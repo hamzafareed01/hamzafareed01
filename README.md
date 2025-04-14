@@ -1,6 +1,6 @@
 # Hello, I'm Hamza! 👋 (Senior-Year Software Engineering Student)
 
-Welcome to my GitHub! I'm a senior-year Software Engineering student passionate about building robust software solutions and exploring new technologies. I have a diverse skill set, including cloud technologies, business analysis, and web development, which I integrate to create scalable and impactful projects. As a Microsoft Learn Student Ambassador, I thrive on learning new technologies and building impactful projects. Here, you'll find my journey, projects, and contributions to the tech community.
+Welcome to my GitHub! I'm a senior-year Software Engineering student passionate about building robust software solutions and exploring new technologies. I have a diverse skill set, including cloud technologies, business analysis, and web development, which I integrate to create scalable and impactful projects. 
 
 Here, you’ll find my journey as I grow in the field of software engineering and explore exciting technologies. 
 
@@ -24,11 +24,11 @@ Here, you’ll find my journey as I grow in the field of software engineering an
 
 ## 🛠️ Skills and Tools
 
-- **Languages**: C, C++, Python, JavaScript, HTML, CSS, Linux
-- **Frameworks & Tools**: React, Node.js, Power BI, PowerApps, Git, VS Code, UNIX
-- **Cloud Technologies**: Microsoft Azure, Micosoft Fabric
-- **Databases**: MySQL
-- **Business Analysis**: Process Modeling, Requirements Gathering, Data Analysis, RDM, CDS
+- **Languages**: C, C++, Python, JavaScript, HTML, CSS
+- **Frameworks & Tools**: React, Node.js, Power BI, PowerApps, Git, VS Code, Jupyter, PyCharm
+- **Cloud Technologies**: AWS, Microsoft Azure
+- **Databases**: MySQL, MongoDB
+- **Business Analysis**: Process Modeling, Requirements Gathering, Data Analysis
 
 ---
 
@@ -36,9 +36,18 @@ Here, you’ll find my journey as I grow in the field of software engineering an
 
 Here are some of my standout projects:
 
-1. **[Project Name 1](GitHub Link)** - Description of the project, technologies used, and the problem it solves.
-2. **[Project Name 2](GitHub Link)** - Highlight your most impressive project and the value it brings.
-3. **[Project Name 3](GitHub Link)** - Provide a link to a project that highlights your skills in cloud technologies, business analysis, or web development.
+1. **[Scrolling-Game-Python](https://replit.com/@HamzaFareed/Scrolling-Game-GitHub#main.py)**  
+   A collision game where a player avoids falling objects, collects points, and progresses to the next level. As the level increases, both the speed of the objects and player increases. Includes blocks, conditional statements, and loops.  
+   ![Game Screenshot](https://user-images.githubusercontent.com/86845085/224146753-95fe5050-e1c1-479d-ab7f-b60f310923ba.jpg)
+
+2. **[KnightGame-cpp](https://replit.com/@HamzaFareed/Knight-Game-C#main.cpp)**  
+   A chess-based game where the objective is to move the white knight to the empty square in the upper right-hand corner. The knight follows traditional chess movement rules, moving in an L-shape.  
+   ![Knight Game Screenshot](https://user-images.githubusercontent.com/86845085/224146928-af1cb411-2a8e-4e3d-9d51-59c1cb6eb63a.jpg)
+
+3. **[Image Manipulation Python](https://replit.com/@HamzaFareed/ImageManipulation-PyhtonProject#main.py)**  
+   This Python script manipulates an image in various ways and creates a collage of the altered versions.  
+   **Original Image**: ![Naruto](https://user-images.githubusercontent.com/86845085/224146753-95fe5050-e1c1-479d-ab7f-b60f310923ba.jpg)  
+   **Final Collage**: ![Collage](https://user-images.githubusercontent.com/86845085/224146928-af1cb411-2a8e-4e3d-9d51-59c1cb6eb63a.jpg)
 
 ---
 
@@ -52,14 +61,3 @@ Here are some of my standout projects:
 
 Feel free to reach out if you're interested in collaborating on exciting projects, discussing cloud solutions, or learning more about software development!
 
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hamzafareed01&show_icons=true&locale=en&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzafareed01&)
-
----
-
-Feel free to reach out if you're interested in collaborating on exciting projects or learning more about the technologies I work with!
