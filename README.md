@@ -124,10 +124,13 @@ I enjoy turning ideas into working systems — from RESTful APIs and frontends t
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzafareed01&show_icons=true&theme=default&hide_title=true)
+<!-- Overall stats -->
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzafareed01&show_icons=true&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hamzafareed01&show_icons=true&locale=en&layout=compact)
+<!-- Top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzafareed01&layout=compact)
 
+<!-- Streak stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzafareed01)
 
 ---
