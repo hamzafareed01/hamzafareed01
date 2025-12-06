@@ -122,16 +122,6 @@ I enjoy turning ideas into working systems — from RESTful APIs and frontends t
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- Overall stats -->
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzafareed01&show_icons=true&hide_title=true)
-
-<!-- Top languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzafareed01&layout=compact)
-
-<!-- Streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzafareed01)
 
 ---
 
