@@ -1,8 +1,9 @@
-# Hello, I'm Hamza! 👋 (Senior-Year Software Engineering Student)
+# Hamza Fareed – Software Engineering & DevOps
 
-Welcome to my GitHub! I'm a senior-year Software Engineering student passionate about building robust software solutions and exploring new technologies. I have a diverse skill set, including cloud technologies, business analysis, and web development, which I integrate to create scalable and impactful projects. 
+Welcome to my GitHub!  
+I’m a final-year Software Engineering / Computer Science student focused on **Fullstack Development**, **Cloud Computing**, and **DevOps**. I enjoy taking ideas from zero to a working product – from backend APIs and front-end UIs to cloud deployment and automation.
 
-Here, you’ll find my journey as I grow in the field of software engineering and explore exciting technologies. 
+Here you’ll find my projects, experiments, and learning as I grow into a professional Software Engineer / DevOps Engineer.
 
 ---
 
@@ -13,40 +14,64 @@ Here, you’ll find my journey as I grow in the field of software engineering an
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Focus On
 
-- **Software Engineering**: Designing and developing high-quality software applications in C, C++, and Python.
-- **Cloud Technologies**: Exploring and implementing cloud solutions with AWS and Azure.
-- **Business Analysis**: Analyzing business processes and translating them into technical requirements for software solutions.
-- **Web Development**: Building modern, responsive websites using HTML, CSS, and JavaScript.
-
----
-
-## 🛠️ Skills and Tools
-
-- **Languages**: C, C++, Python, JavaScript, HTML, CSS
-- **Frameworks & Tools**: React, Node.js, Power BI, PowerApps, Git, VS Code, Jupyter, PyCharm
-- **Cloud Technologies**: AWS, Microsoft Azure
-- **Databases**: MySQL, MongoDB
-- **Business Analysis**: Process Modeling, Requirements Gathering, Data Analysis
+- **Software Engineering** – Writing clean, maintainable code and learning solid design practices.
+- **Fullstack & Web** – Building responsive, user-friendly web apps with modern JavaScript technologies.
+- **Cloud & DevOps** – Working with AWS and Azure, containers, and CI/CD to deploy and automate applications.
+- **Problem Solving** – Using data structures, algorithms, and debugging skills to solve real problems.
 
 ---
 
-## 💼 My Projects
+## 🛠️ Tech Stack
 
-Here are some of my standout projects:
+**Languages**  
+- C, C++, Python, JavaScript  
+- (Learning more about TypeScript & modern JS frameworks)
 
-1. **[Scrolling-Game-Python](https://replit.com/@HamzaFareed/Scrolling-Game-GitHub#main.py)**  
-   A collision game where a player avoids falling objects, collects points, and progresses to the next level. As the level increases, both the speed of the objects and player increases. Includes blocks, conditional statements, and loops.  
-   
+**Web & Frameworks**  
+- HTML, CSS  
+- React, Node.js  
 
-2. **[KnightGame-cpp](https://replit.com/@HamzaFareed/Knight-Game-C#main.cpp)**  
-   A chess-based game where the objective is to move the white knight to the empty square in the upper right-hand corner. The knight follows traditional chess movement rules, moving in an L-shape.  
-  
+**Cloud & DevOps**  
+- Microsoft Azure  
+- Amazon Web Services (AWS)  
+- Git & GitHub  
+- VS Code  
 
-3. **[Image Manipulation Python](https://replit.com/@HamzaFareed/ImageManipulation-PyhtonProject#main.py)**  
-   This Python script manipulates an image in various ways and creates a collage of the altered versions.  
+**Databases**  
+- MySQL  
+- MongoDB  
 
+**Other Tools**  
+- Jupyter, PyCharm  
+- Basic experience with Power BI / PowerApps
+
+---
+
+## 💼 Selected Projects
+
+> I’m currently working on stronger fullstack + cloud-native projects.  
+> For now, here are a few earlier projects that show my foundations in logic, game mechanics, and Python/C++.
+
+1. **Scrolling Game (Python)**  
+   A 2D scrolling game where the player avoids falling objects and collects points to progress through levels.  
+   - Uses loops, collision detection, and basic game physics.  
+   - Difficulty increases as the player advances.  
+   🔗 [View on Replit](https://replit.com/@HamzaFareed/Scrolling-Game-GitHub#main.py)
+
+2. **Knight Game (C++)**  
+   A chess-inspired puzzle game where the goal is to move a knight to a target square using legal chess moves.  
+   - Implements board representation and move validation logic.  
+   - Focus on algorithmic thinking and state management.  
+   🔗 [View on Replit](https://replit.com/@HamzaFareed/Knight-Game-C#main.cpp)
+
+3. **Image Manipulation (Python)**  
+   A Python script that applies different transformations to an image and creates a collage of the results.  
+   - Demonstrates working with image data and basic image-processing logic.  
+   🔗 [View on Replit](https://replit.com/@HamzaFareed/ImageManipulation-PyhtonProject#main.py)
+
+> More fullstack, cloud, and DevOps-oriented projects are in progress and will be added here soon.
 
 ---
 
@@ -58,5 +83,4 @@ Here are some of my standout projects:
 
 ---
 
-Feel free to reach out if you're interested in collaborating on exciting projects, discussing cloud solutions, or learning more about software development!
-
+If you’d like to collaborate on fullstack, cloud, or DevOps-focused projects, feel free to reach out!
