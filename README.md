@@ -102,9 +102,9 @@ I enjoy turning ideas into working systems — from RESTful APIs and frontends t
 
 ## 📜 Certifications
 
-- **Microsoft Certified: Azure Administrator Associate (AZ-104)**
-- **Microsoft Certified: Azure Developer Associate (AZ-204)**
-- **Microsoft Certified: DevOps Engineer Expert (AZ-400)**
+- **[Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/api/credentials/share/en-us/HamzaSyed/6CB1F6BCE0417168?sharingId=DA64B10CAD0369F4)**
+- **[Microsoft Certified: Azure Developer Associate (AZ-204)](https://learn.microsoft.com/api/credentials/share/en-us/HamzaSyed/2252DD48BF94ACE4?sharingId=DA64B10CAD0369F4)**
+- **[Microsoft Certified: DevOps Engineer Expert (AZ-400)](https://learn.microsoft.com/api/credentials/share/en-us/HamzaSyed/94702B2AE22F9EC1?sharingId=DA64B10CAD0369F4)**
 - **WordPress Web Developer – Udemy**
 
 > These three Azure certs together show I can **build, deploy, and operate** cloud applications end-to-end on Azure.
