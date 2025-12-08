@@ -17,24 +17,25 @@ I enjoy turning ideas into working systems — from RESTful APIs and frontends t
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hamzafareed01&show_icons=true&hide_title=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamzafareed01&theme=github_dark"
     alt="Hamza's GitHub stats"
   />
 </p>
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzafareed01&layout=compact"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamzafareed01&theme=github_dark"
     alt="Top Languages"
   />
 </p>
 
 <p align="left">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hamzafareed01"
+    src="https://streak-stats.demolab.com?user=hamzafareed01&theme=github-dark&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
+
 
 ---
 
