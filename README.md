@@ -15,19 +15,22 @@ I enjoy turning ideas into working systems — from RESTful APIs and frontends t
 ---
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamzafareed01&theme=github_dark"
-    alt="Hamza's GitHub stats"
-  />
-</p>
-
-<p align="left">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamzafareed01&theme=github_dark"
-    alt="Top Languages"
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamzafareed01&theme=github_dark"
+        alt="Hamza's GitHub stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamzafareed01&theme=github_dark"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <img
@@ -35,6 +38,7 @@ I enjoy turning ideas into working systems — from RESTful APIs and frontends t
     alt="GitHub Streak"
   />
 </p>
+
 
 
 ---
