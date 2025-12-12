@@ -64,7 +64,7 @@ I enjoy turning ideas into working systems — from RESTful APIs and frontends t
 - 🎓 **B.S. in Computer Science – Software Engineering**, Roosevelt University  
   _Expected Graduation: May 2026_
 - 📍 Based in **Chicago, IL** (open to relocation & remote roles)
-- 🧪 Coursework: Data Structures & Algorithms, Operating Systems, Software Design, Linux Systems Programming, LLM Intelligent Systems, Software Project Management
+- 🧪 Coursework: Data Structures & Algorithms, Operating Systems, Software Design, Linux Systems Programming, LLM Intelligent Systems, Software Project Management, Object Oreinted Programming, Software Design, Databases with SQL
 
 ---
 
