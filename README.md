@@ -70,23 +70,29 @@ I enjoy turning ideas into working systems — from RESTful APIs and frontends t
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-`Python` · `C` · `C++` · `JavaScript` · `TypeScript (learning)` · `SQL` · `HTML` · `CSS` · `Java (basic)` · `PHP (basic)`
-
-**Backend / APIs**  
-`Spring Boot` · `Node.js` · `RESTful APIs`  
+**Core (SWE / Fullstack / DevOps)**  
+`Python` · `JavaScript` · `C++` · `SQL` · `Git` · `GitHub` · `Linux`
 
 **Frontend**  
-`React` · `Modern JS / TS` · `Responsive UI`
+`React` · `HTML` · `CSS` · `Responsive UI` · `Figma-to-Code`
 
-**Cloud & DevOps**  
-`Microsoft Azure` · `GitHub Actions` · `CI/CD` · `Power Platform (Power Apps, Power BI)`  
+**Backend / APIs**  
+`Node.js` · `Spring Boot` · `RESTful APIs` · `Auth Integrations` · `Payments Integrations`
+
+**Cloud / DevOps**  
+`Microsoft Azure` · `Azure Functions` · `GitHub Actions` · `CI/CD Pipelines`
 
 **Databases**  
-`MySQL` · `Microsoft Access` · `CDS (Dataverse)`
+`MySQL` · `CDS (Dataverse)` · `Microsoft Access`
 
-**Tools**  
-`Git` · `GitHub` · `VS Code` · `WordPress` · `Jupyter` · `PyCharm`
+**Testing & Quality**  
+`Unit Testing` · `Integration Checks` · `Automated Error Handling`
+
+**Performance**  
+`Code Splitting` · `Asset Optimization` · `Page Load Optimization`
+
+**Also Familiar**  
+`C` · `Java (basic)` · `PHP (basic)` · `TypeScript (learning)` · `WordPress` · `Power Platform (Power Apps, Power BI)`
 
 ---
 
